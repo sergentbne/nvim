@@ -43,6 +43,7 @@
             rust-analyzer
             tree-sitter
             nixfmt
+            nixd
             rust-bin.stable.latest.default
           ];
         in
