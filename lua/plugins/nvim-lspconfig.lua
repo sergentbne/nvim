@@ -10,7 +10,7 @@ local config = {
 		vim.lsp.enable("basedpyright")
 		vim.lsp.enable("tsgo")
 		vim.lsp.enable("ruff")
-		vim.lsp.enable("nixfmt")
+		vim.lsp.enable("nixd")
 		vim.lsp.enable("clangd")
 
 		vim.lsp.config("lua_ls", {
