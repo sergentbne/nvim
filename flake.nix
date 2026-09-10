@@ -3,7 +3,7 @@
   #based on voidarc nix configuration: git.voidarc.co.uk/voidarc/nvim
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
-    wrappers.url = "github:BirdeeHub/nix-wrapper-modules";
+    wrappers.url = "github:nix-community/nix-wrapper-modules";
     rust-overlay.url = "github:oxalica/rust-overlay";
   };
 
