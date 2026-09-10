@@ -1,6 +1,6 @@
 {
   description = "serge's own nvim configuration";
-  #based on voidarc nix configuration: git.voidarc.co.uk/voidarc/nvim
+  #based on voidarc's nix configuration: git.voidarc.co.uk/voidarc/nvim
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     wrappers.url = "github:nix-community/nix-wrapper-modules";
