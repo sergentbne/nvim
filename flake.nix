@@ -37,7 +37,7 @@
           pkgList = with pkgs; [
             lua-language-server
             basedpyright
-            typescript-go
+            typescript
             ruff
             clang
             rust-analyzer
